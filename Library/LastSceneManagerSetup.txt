@@ -1,0 +1,5 @@
+sceneSetups:
+- path: \\172.19.20.108\DDA_TempStorage/Riley Arico/lighting & texture/Unity scenes/lightTextureScene/Assets/Scenes/Exterior.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
