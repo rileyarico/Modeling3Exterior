@@ -481,6 +481,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: bf1557f363580c4499e95d67c3b445e9, type: 2}
+    - target: {fileID: 555903091474395206, guid: d828866e4c3bedb4fa0055dff8e5c9c7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: -876546973899608171, guid: 53898eddf023fe745824f76e2819720e, type: 3}
     - target: {fileID: 919132149155446097, guid: d828866e4c3bedb4fa0055dff8e5c9c7, type: 3}
       propertyPath: m_Name
       value: modelWIP02
